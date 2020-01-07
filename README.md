@@ -12,7 +12,7 @@ python ile anlık mobil uygulamaya veri girişi
 
 
 
-#Örnek(Python'da veri girişi gerçekleştirerek mobil uygulamadan veriye ulaşmak)
+# Örnek(Python'da veri girişi gerçekleştirerek mobil uygulamadan veriye ulaşmak)
 
 
 
