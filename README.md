@@ -1,4 +1,4 @@
-# Python-ReactNative-Firebase-Integration
+# RealTime Python-ReactNative-Firebase-Integration
 python ile anlık mobil uygulamaya veri girişi
 
 - python projenize firebase entegre etmek için
